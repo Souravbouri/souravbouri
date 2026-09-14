@@ -1,35 +1,270 @@
+<!-- =========================
+     PROFILE HEADER
+========================= -->
+
 <h1 align="center">Hi 👋, I'm Sourav Bouri</h1>
-<h3 align="center">Computer Science Student | Python | Linux | Cybersecurity</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souravbouri&label=Profile%20views&color=0e75b6&style=flat" alt="souravbouri" /> </p>
+<h3 align="center">
+Computer Science Student • Cybersecurity • Linux • Software Development
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravbouri" alt="souravbouri" /></a> </p>
-
-- 🔭 I’m currently working on [Phising-detector](https://github.com/Souravbouri/Phishing-detector.git)
-
-- 🌱 I’m currently learning **Red Teaming & Penetration Testing, Linux Systems & Administration, Cryptography & Secure Communication**
-
-- 📝 I regularly write articles on [Substack, Medium](Substack, Medium)
-
-- 💬 Ask me about **Cybersecurity, Linux**
-
-- 📫 How to reach me **https://www.linkedin.com/in/sourav-bouri-5ba902293/**
-
-- ⚡ Fun fact **🔎 Fun fact: I can spend hours going down a rabbit hole after discovering one interesting technical or scientific fact.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/souravbouri17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/souravbouri17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sourav-bouri-5ba902293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sourav-bouri-5ba902293/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/30860218/sourav-bouri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/30860218/sourav-bouri" height="30" width="40" /></a>
-<a href="https://instagram.com/wyd_sourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wyd_sourav" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Souravbouri">
+    <img src="https://komarev.com/ghpvc/?username=Souravbouri&label=Profile%20Views&color=00d9ff&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/Souravbouri">
+    <img src="https://img.shields.io/github/followers/Souravbouri?label=Followers&style=flat&color=00d9ff" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/Souravbouri?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Souravbouri?label=Stars&style=flat&color=00d9ff" alt="GitHub Stars"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souravbouri&show_icons=true&locale=en&layout=compact" alt="souravbouri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravbouri&show_icons=true&locale=en" alt="souravbouri" /></p>
+<!-- =========================
+     INTRODUCTION
+========================= -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravbouri&" alt="souravbouri" /></p>
+## 🧑‍💻 About Me
+
+I'm a Computer Science student interested in understanding how
+software, operating systems, networks and security work together.
+
+I learn primarily through practical work, experimentation,
+projects and continuous exploration.
+
+My current direction is cybersecurity, with a growing focus on
+red teaming, penetration testing, Linux systems, networking and
+cryptography.
+
+> **Practice over theory.**
+
+---
+
+## ⚡ Currently Learning
+
+- 🔴 Red Teaming & Penetration Testing
+- 🌐 Network Security & Enumeration
+- 🔐 Cryptography & Secure Communication
+- 🐧 Linux Systems & Administration
+- 🧪 Web Application Security
+- 💻 Python for Security Automation
+- 🛡️ Defensive Security
+
+
+<!-- =========================
+     CURRENT PROJECT
+========================= -->
+
+## 🔭 Currently Working On
+
+### 🛡️ Phishing Detector
+
+A project focused on identifying and analysing potentially
+malicious phishing links and websites.
+
+**Repository:**  
+👉 [Phishing-detector](https://github.com/Souravbouri/Phishing-detector)
+
+
+<!-- =========================
+     TECH STACK
+========================= -->
+
+## 🛠️ Languages & Technologies
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</p>
+
+### Web & Development
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</p>
+
+### Linux & Systems
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="45" height="45" alt="PowerShell"/>
+</p>
+
+### Security & Networking
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Nmap-00d9ff?style=for-the-badge&logo=nmap&logoColor=white" height="28" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Wireshark-00d9ff?style=for-the-badge&logo=wireshark&logoColor=white" height="28" alt="Wireshark"/>
+</p>
+
+
+<!-- =========================
+     FEATURED PROJECTS
+========================= -->
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/Souravbouri/Phishing-detector">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Souravbouri&repo=Phishing-detector&theme=transparent&hide_border=true" />
+</a>
+
+</p>
+
+> More projects will be added here as I complete and document them.
+
+
+<!-- =========================
+     GITHUB ANALYTICS
+========================= -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=Souravbouri&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"
+alt="Sourav's GitHub Stats"/>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravbouri&layout=compact&hide_border=true&langs_count=8&theme=transparent"
+alt="Top Languages"/>
+
+</p>
+
+
+<!-- =========================
+     STREAK
+========================= -->
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Souravbouri&theme=transparent&hide_border=true"
+alt="Sourav's GitHub Streak"/>
+
+</p>
+
+
+<!-- =========================
+     CONTRIBUTION GRAPH
+========================= -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Souravbouri&bg_color=00000000&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true"
+alt="Sourav's Contribution Graph"/>
+
+</p>
+
+
+<!-- =========================
+     GITHUB SUMMARY
+========================= -->
+
+## 🧠 GitHub Summary
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Souravbouri&theme=github_dark"
+alt="GitHub Profile Details"/>
+
+</p>
+
+
+<!-- =========================
+     WRITING
+========================= -->
+
+## ✍️ Writing
+
+I write about technology, cybersecurity, programming, learning
+and ideas that I find interesting.
+
+- 📝 [Substack](https://mrunkown3.substack.com/)
+- 📝 [Medium](https://medium.com/@dassourav51516)
+
+
+<!-- =========================
+     FUN FACT
+========================= -->
+
+## 🔎 Fun Fact
+
+I can spend hours going down a rabbit hole after discovering
+one interesting technical or scientific fact.
+
+
+<!-- =========================
+     CONNECT
+========================= -->
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/sourav-bouri-5ba902293/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+alt="LinkedIn"
+height="35"
+width="45"/>
+</a>
+
+<a href="https://x.com/souravbouri17" target="_blank">
+<img src="https://cdn.simpleicons.org/x/ffffff"
+alt="X"
+height="35"
+width="45"/>
+</a>
+
+<a href="https://www.instagram.com/wyd_sourav/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+alt="Instagram"
+height="35"
+width="45"/>
+</a>
+
+<a href="https://stackoverflow.com/users/30860218/sourav-bouri" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+alt="Stack Overflow"
+height="35"
+width="45"/>
+</a>
+
+</p>
+
+
+<!-- =========================
+     FOOTER
+========================= -->
+
+<p align="center">
+
+<b>Build • Learn • Secure</b>
+
+</p>
+
+<p align="center">
+Thanks for visiting my profile! ⭐
+</p>
