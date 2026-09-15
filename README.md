@@ -1,3 +1,4 @@
+
 <!-- ============================================================
      SOURAV BOURI — GitHub Profile README
      Last updated: September 2026
@@ -6,11 +7,9 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d5c,70:00b4d8,100:0d1117&height=260&section=header&text=Sourav%20Bouri&fontSize=58&fontColor=ffffff&fontAlignY=42&fontAlign=62&desc=Cybersecurity%20%E2%80%A2%20Linux%20%E2%80%A2%20Networking%20%E2%80%A2%20Software%20Development&descAlignY=60&descSize=15&descColor=90e0ef&descAlign=62&animation=fadeIn" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=Sourav%20Bouri&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20Linux%20%E2%80%A2%20Networking%20%E2%80%A2%20Software%20Development&descAlignY=58&descSize=16&descColor=90e0ef" alt="Header"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Souravbouri&label=Profile%20Views&color=00b4d8&style=flat)](https://github.com/Souravbouri)
 [![GitHub Followers](https://img.shields.io/github/followers/Souravbouri?label=Followers&style=flat&color=00b4d8)](https://github.com/Souravbouri)
