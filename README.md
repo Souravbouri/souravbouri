@@ -6,9 +6,11 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=Sourav%20Bouri&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20Linux%20%E2%80%A2%20Networking%20%E2%80%A2%20Software%20Development&descAlignY=58&descSize=16&descColor=90e0ef" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d5c,70:00b4d8,100:0d1117&height=260&section=header&text=Sourav%20Bouri&fontSize=58&fontColor=ffffff&fontAlignY=42&fontAlign=62&desc=Cybersecurity%20%E2%80%A2%20Linux%20%E2%80%A2%20Networking%20%E2%80%A2%20Software%20Development&descAlignY=60&descSize=15&descColor=90e0ef&descAlign=62&animation=fadeIn" alt="Header"/>
 
-<br/>
+</div>
+
+<div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Souravbouri&label=Profile%20Views&color=00b4d8&style=flat)](https://github.com/Souravbouri)
 [![GitHub Followers](https://img.shields.io/github/followers/Souravbouri?label=Followers&style=flat&color=00b4d8)](https://github.com/Souravbouri)
@@ -176,11 +178,11 @@ Automated static analysis tool that scans Python source code for security vulner
 <div align="center">
 
 <img height="170"
-src="https://github-readme-stats-eight-ashen.vercel.app/api?username=Souravbouri&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&title_color=00b4d8&icon_color=00b4d8"
+src="https://gh-readme-stats-tau.vercel.app/api?username=Souravbouri&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&title_color=00b4d8&icon_color=00b4d8"
 alt="Sourav's GitHub Stats"/>
 &nbsp;
 <img height="170"
-src="https://github-readme-stats-eight-ashen.vercel.app/api/top-langs/?username=Souravbouri&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=00b4d8"
+src="https://gh-readme-stats-tau.vercel.app/api/top-langs/?username=Souravbouri&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=00b4d8"
 alt="Top Languages"/>
 
 </div>
@@ -195,8 +197,8 @@ alt="Sourav's GitHub Streak"/>
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Souravbouri&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true"
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Souravbouri&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"
 alt="Sourav's Contribution Graph"/>
 
 </div>
