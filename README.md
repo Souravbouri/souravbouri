@@ -59,18 +59,55 @@ My current direction is cybersecurity, with a growing focus on red teaming, pene
 
 ---
 
-<!-- CURRENT PROJECT -->
-## Current Project
+<!-- FEATURED PROJECTS -->
+## Featured Projects
 
-<div align="center">
+<table>
+<tr>
 
-### 🛡️ Phishing Detector
+<td width="33%" valign="top" align="center">
 
-A cybersecurity project focused on identifying and analysing potentially malicious phishing links and websites.
+**🛡️ Phishing Detector**
 
-[![View Project](https://img.shields.io/badge/View%20Project-Phishing%20Detector-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souravbouri/Phishing-detector)
+Identifies and analyses potentially malicious phishing links and websites.
 
-</div>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/Souravbouri/Phishing-detector)
+[![Stars](https://img.shields.io/github/stars/Souravbouri/Phishing-detector?style=flat&color=00b4d8)](https://github.com/Souravbouri/Phishing-detector)
+
+[→ View Repo](https://github.com/Souravbouri/Phishing-detector)
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+**📡 Network Sniffer**
+
+Captures and analyses live network packets — IP, TCP, UDP in real time. Built from raw sockets.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/Souravbouri/CodeAlpha_Network_Sniffer)
+[![Stars](https://img.shields.io/github/stars/Souravbouri/CodeAlpha_Network_Sniffer?style=flat&color=00b4d8)](https://github.com/Souravbouri/CodeAlpha_Network_Sniffer)
+
+[→ View Repo](https://github.com/Souravbouri/CodeAlpha_Network_Sniffer)
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+**🔍 Code Review System**
+
+Automated static analysis tool that scans Python source code for security vulnerabilities and bad practices.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/Souravbouri/CodeAlpha_Code_Review_System)
+[![Stars](https://img.shields.io/github/stars/Souravbouri/CodeAlpha_Code_Review_System?style=flat&color=00b4d8)](https://github.com/Souravbouri/CodeAlpha_Code_Review_System)
+
+[→ View Repo](https://github.com/Souravbouri/CodeAlpha_Code_Review_System)
+
+</td>
+
+</tr>
+</table>
+
+<!-- Add future featured projects here -->
 
 ---
 
@@ -131,29 +168,6 @@ A cybersecurity project focused on identifying and analysing potentially malicio
 
 ---
 
-<!-- FEATURED PROJECTS -->
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Souravbouri/Phishing-detector">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Souravbouri&repo=Phishing-detector&theme=github_dark&hide_border=true&title_color=00b4d8&icon_color=00b4d8" />
-</a>
-
-<a href="https://github.com/Souravbouri/CodeAlpha_Network_Sniffer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Souravbouri&repo=CodeAlpha_Network_Sniffer&theme=github_dark&hide_border=true&title_color=00b4d8&icon_color=00b4d8" />
-</a>
-
-<a href="https://github.com/Souravbouri/CodeAlpha_Code_Review_System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Souravbouri&repo=CodeAlpha_Code_Review_System&theme=github_dark&hide_border=true&title_color=00b4d8&icon_color=00b4d8" />
-</a>
-
-</div>
-
-<!-- Add future featured projects here -->
-
----
-
 <!-- GITHUB ANALYTICS -->
 ## GitHub Analytics
 
@@ -193,12 +207,24 @@ alt="Sourav's Contribution Graph"/>
 I write about cybersecurity, technology and ideas I find worth exploring.
 
 <p>
+<a href="https://medium.com/@dassourav51516/i-built-a-network-sniffer-in-python-during-my-internship-heres-what-nobody-tells-you-about-it-92311d7481a1">
+<img src="https://img.shields.io/badge/Medium-Network%20Sniffer%20Article-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Article"/>
+</a>
+</p>
+
+<p>
+<a href="https://sourav2004.substack.com/p/god-society-and-the-courage-to-think">
+<img src="https://img.shields.io/badge/Substack-God%2C%20Society%20%26%20Courage%20to%20Think-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack Article"/>
+</a>
+</p>
+
+<p>
 <a href="https://medium.com/@dassourav51516">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+<img src="https://img.shields.io/badge/All%20Medium%20Articles-12100E?style=flat&logo=medium&logoColor=white" alt="Medium Profile"/>
 </a>
 &nbsp;
-<a href="https://mrunkown3.substack.com/">
-<img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/>
+<a href="https://sourav2004.substack.com">
+<img src="https://img.shields.io/badge/All%20Substack%20Posts-FF6719?style=flat&logo=substack&logoColor=white" alt="Substack Profile"/>
 </a>
 </p>
 
@@ -234,7 +260,6 @@ I write about cybersecurity, technology and ideas I find worth exploring.
 
 ---
 
-<!-- FUN FACT -->
 > I can spend hours going down a rabbit hole after discovering one interesting technical or scientific fact.
 
 ---
