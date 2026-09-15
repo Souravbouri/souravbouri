@@ -177,29 +177,22 @@ Automated static analysis tool that scans Python source code for security vulner
 
 <div align="center">
 
-<img height="170"
-src="https://gh-readme-stats-tau.vercel.app/api?username=Souravbouri&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&title_color=00b4d8&icon_color=00b4d8"
-alt="Sourav's GitHub Stats"/>
-&nbsp;
-<img height="170"
-src="https://gh-readme-stats-tau.vercel.app/api/top-langs/?username=Souravbouri&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=00b4d8"
-alt="Top Languages"/>
+| Metric | Value |
+|--------|-------|
+| 🗂️ Public Repositories | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Souravbouri&query=public_repos&label=Repos&color=00b4d8&style=flat) |
+| 👥 Followers | ![Followers](https://img.shields.io/github/followers/Souravbouri?label=Followers&color=00b4d8&style=flat) |
+| ⭐ Total Stars | ![Stars](https://img.shields.io/github/stars/Souravbouri?label=Stars&color=00b4d8&style=flat) |
+| 🐍 Top Language | ![Lang](https://img.shields.io/badge/Top%20Language-Python-3776AB?style=flat&logo=python&logoColor=white) |
 
 </div>
 
 <div align="center">
+
+### 🔥 Contribution Streak
 
 <img
 src="https://streak-stats.demolab.com?user=Souravbouri&theme=github-dark-blue&hide_border=true&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8"
 alt="Sourav's GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Souravbouri&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"
-alt="Sourav's Contribution Graph"/>
 
 </div>
 
