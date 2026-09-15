@@ -154,6 +154,8 @@ Automated static analysis tool that scans Python source code for security vulner
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height="28" alt="Ubuntu"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white" height="28" alt="Arch Linux"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white" height="28" alt="Fedora"/>
 </p>
 
 **Cybersecurity & Networking**
@@ -174,11 +176,11 @@ Automated static analysis tool that scans Python source code for security vulner
 <div align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Souravbouri&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&title_color=00b4d8&icon_color=00b4d8"
+src="https://github-readme-stats-eight-ashen.vercel.app/api?username=Souravbouri&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&title_color=00b4d8&icon_color=00b4d8"
 alt="Sourav's GitHub Stats"/>
 &nbsp;
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravbouri&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=00b4d8"
+src="https://github-readme-stats-eight-ashen.vercel.app/api/top-langs/?username=Souravbouri&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=00b4d8"
 alt="Top Languages"/>
 
 </div>
@@ -186,7 +188,7 @@ alt="Top Languages"/>
 <div align="center">
 
 <img
-src="https://nirzak-streak-stats.vercel.app/?user=Souravbouri&theme=github-dark-blue&hide_border=true&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8"
+src="https://streak-stats.demolab.com?user=Souravbouri&theme=github-dark-blue&hide_border=true&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8"
 alt="Sourav's GitHub Streak"/>
 
 </div>
