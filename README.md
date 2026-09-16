@@ -1,4 +1,3 @@
-
 <!-- ============================================================
      SOURAV BOURI — GitHub Profile README
      Last updated: September 2026
@@ -227,9 +226,13 @@ I write about cybersecurity, technology and ideas I find worth exploring.
 ---
 
 <!-- PORTFOLIO -->
-## Portfolio
+## 🌐 Portfolio
 
-🌐 Coming Soon.
+<p>
+<a href="https://sourav-bouri-portfolio.onrender.com/" target="_blank">
+<img src="https://img.shields.io/badge/Visit%20Portfolio-sourav--bouri--portfolio.onrender.com-00b4d8?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+</p>
 
 ---
 
